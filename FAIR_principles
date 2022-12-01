@@ -1,0 +1,13 @@
+We understand that this is a collaborative envirometn and the product is not on it's final version. 
+Howewer, an expert from the same field should be able to read and reproduce. 
+
+FAIR principles:
+  Findable -> it is enough of description for the search engine
+  Accessible -> the stansdart way of accesing all the needed IP though open0licence or declared way of IP transfer
+  Interoperable -> the general context of the particular item is described (for which purpose one can use it)
+  Reproducible -> there is enough IP to reproduce the result
+
+One must also try to support the item:
+  - update with new versions 
+  - be reasonably avaliable for the consultancy 
+  - revise new commints and forks
